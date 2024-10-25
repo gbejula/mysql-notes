@@ -34,7 +34,7 @@ SELECT
     (points + 10) * 100 AS Discount_Factor
 FROM customers
 
-** To use space in between the ALIAS, it should be in parenthesis.
+** To use space in between the ALIAS, it should be in parenthesis. **
 
 e.g AS 'Discount Factor'
 
